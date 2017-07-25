@@ -1,8 +1,5 @@
 package mllib
 
-import java.lang.Double
-
-import org.apache.spark.mllib.linalg.Vectors
 import org.apache.spark.{SparkConf, SparkContext}
 
 object testRowMatrix {
